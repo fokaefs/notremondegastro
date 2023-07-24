@@ -28,7 +28,7 @@ url: "https://fokaefs.github.io" # the base hostname & protocol for your site, e
 # github_username:  jekyll
 
 # Build settings
-remote_theme: merlot
+remote_theme: pages-themes/merlot@v0.2.0
 plugins:
   - jekyll-feed
 
